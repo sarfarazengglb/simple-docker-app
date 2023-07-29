@@ -12,7 +12,7 @@ This is a simple Node.js web app that displays "Hello, World!" when accessed thr
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/simple-docker-app.git
+   git clone https://github.com/sarfarazengglb/simple-docker-app.git
 
 2. Navigate to the project directory and Install the required dependencies and run app:
    ```bash
