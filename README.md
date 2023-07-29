@@ -17,6 +17,7 @@ This is a simple Node.js web app that displays "Hello, World!" when accessed thr
 2. Navigate to the project directory and Install the required dependencies and run app:
    ```bash
    cd simple-docker-app
+   npm install express
    npm install
    npm start
 
