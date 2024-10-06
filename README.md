@@ -3,7 +3,7 @@
 
 This is a simple Node.js web application that displays "Hello, World!" when accessed through a web browser. You can run this app locally or in a Docker container.
 
-## Prerequisites
+## Prerequisites...
 
 - **Node.js** (version 14 or higher)
 - **npm** (Node Package Manager)
